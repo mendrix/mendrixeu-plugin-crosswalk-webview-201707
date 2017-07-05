@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-crosswalk-webview",
+  "name": "mendrixeu-plugin-crosswalk-webview-201707",
   "version": "2.3.0",
   "description": "Changes the default WebView to CrossWalk",
   "cordova": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview.git"
+    "url": "https://github.com/mendrix/mendrixeu-plugin-crosswalk-webview-201707.git"
   },
   "keywords": [
     "cordova",
